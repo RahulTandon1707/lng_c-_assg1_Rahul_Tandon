@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "assignmentmethods/1.0.0": {
+        "runtime": {
+          "assignmentmethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assignmentmethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
